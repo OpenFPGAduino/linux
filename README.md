@@ -6,4 +6,6 @@ linux core for openfpgadunino
 build:
      make zImage
 
+zImage path:
+     arch/arm/boot/zImage
      
